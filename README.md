@@ -1,9 +1,9 @@
-# bandito.club
+### FOR THE BOT MODULES YOU WILL NEED TO MAKE SURE YOU HAVE TO BARITONE JAR OFF OF THE WEBSITE.
+
+## bandito.club
 An anarchy Minecraft client that was made for the specific use of being used on oldfag.org
 
 The client was made over the span of around 4-6 months by Gav06 and I since we were both playing oldfag.org
-
-For the bot modules you will need to make sure you have to baritone jar off of the website.
 
 Default ClickGUI Bind [U]
 
