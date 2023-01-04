@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "bandito",
+    "name": "Bandito",
+    "description": "oldfag client",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Gav06",
+      "gerald0mc"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
