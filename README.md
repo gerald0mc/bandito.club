@@ -6,6 +6,7 @@ The client was made over the span of around 4-6 months by Gav06 and I since we w
 For the bot modules you will need to make sure you have to baritone jar off of the website.
 
 Default ClickGUI Bind [U]
+
 Default Command Prefix [+] - Ex: +help
 
 ## Useful modules:
