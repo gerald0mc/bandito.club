@@ -1,4 +1,4 @@
-### FOR THE BOT MODULES YOU WILL NEED TO MAKE SURE YOU HAVE TO BARITONE JAR OFF OF THE WEBSITE.
+### FOR THE BOT MODULES YOU WILL NEED TO MAKE SURE YOU HAVE TO BARITONE JAR OFF OF THE GITHUB.
 
 ## bandito.club
 An anarchy Minecraft client that was made for the specific use of being used on oldfag.org
