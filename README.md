@@ -10,7 +10,7 @@ Default ClickGUI Bind [U]
 Default Command Prefix [+] - Ex: +help
 
 ## Useful modules:
-* ObbyBot - A bot that automatically mines and creates new portals for you.
+* ObbyBot - A bot that automatically mines and creates new portals for you. (REQUIRES THE USE OF THE SCHEMATICA NAMED OBSIDIANFARMKVN.SCHEMATIC TO WORK)
 * GhastBot - A bot that automatically afks and when a ghast if found, moves to kill it. (Use a KillAura with this module)
 * AutoTrader - A bot that when a trader gui is opened automatically trades items for you when you click onto the page. (Perform the help command to see how to add trades to the trade list)
 * AntiPlantStomp - A module that stops you from stomping on plants.
